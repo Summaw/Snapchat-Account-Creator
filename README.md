@@ -1,9 +1,9 @@
 **[+] Working As Of 6/14/22 [+]**
 
-[+] Install the packages below [+] 
-[-] pip install pypasser
-[-] pip install reCaptchaV3
-[-] pip install requests
+[+] Install the packages below [+]\n
+[-] pip install pypasser \n
+[-] pip install reCaptchaV3 \n
+[-] pip install requests \n
 
 [+] ToDo List [+]
 [-] Add actual email gen so it creates actual email accounts 
