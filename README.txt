@@ -1,4 +1,6 @@
-**[+] Working As Of 6/14/22 [+]**
+**[+] This was patched awhile ago [+]**
+
+`I might update later idk yet, Please stop asking me to fix this.`
 
 [+] Install the packages below [+]
 [-] pip install pypasser
